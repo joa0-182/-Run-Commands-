@@ -3,9 +3,17 @@
 
 - Para abrir o “Executar” e rodar comandos executar do Windows, basta acessar a tecla de atalho Windows + R, pressionando a tecla com o logotipo do Windows + letra “R”. 😉
 
-<p width="50%">
+
 ![executar windows](https://user-images.githubusercontent.com/99850507/182521739-0a6ab5b3-673d-4cff-bf29-1e75ba7a58cf.png)
+
+também é possível executar esses aplicativos no cmd(Prompt de Comando), presionando as teclas Windows + R para abrir o aplicativo Executar ou buscar na barra de pesquisa do windows;
+
+<p align='center'>
+<img>https://supportkb.dell.com/img/ka02R000000YFQSQA4/ka02R000000YFQSQA4_pt_BR_4.jpeg</img>
 </p>
+
+
+
 
 ## Lista 📝 (os mais básicos e práticos)
 
